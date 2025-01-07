@@ -16,21 +16,22 @@ Task 1: Development and Compilation of a Parameterized C Program
 
 1.	Setting Up the Virtual Machine: I used VirtualBox to set up a virtual environment with Ubuntu 18.04:
 	
-a.	Opened VirtualBox and clicked "New" to create a new virtual machine.
+           a. Opened VirtualBox and clicked "New" to create a new virtual machine.
 	
-b.	Selected Linux as the operating system and Ubuntu 18.04 as the version.
+           b. Selected Linux as the operating system and Ubuntu 18.04 as the version.
 	
-c.	Allocated memory and selected an existing virtual hard disk (the unzipped VDI file).
+           c. Allocated memory and selected an existing virtual hard disk (the unzipped VDI file).
 	
-d.	Launched the virtual machine and verified that it booted successfully.
+           d. Launched the virtual machine and verified that it booted successfully.
 	
-e.	Writing, Compiling, and Running the C Program Locally: I wrote a parameterized C program (sum1ton.c) to compute the sum of numbers from 1 to ( n ). This program uses a loop for computation and dynamically accepts ( n ) as input from the user during execution.
+           e. Writing, Compiling, and Running the C Program Locally: I wrote a parameterized C program (sum1ton.c) to compute the sum of numbers from 1 to ( n ). This program uses a loop for computation and 
+              dynamically accepts ( n ) as input from the user during execution.
 	
-f.	Sum of Numbers from 1 to ( n ):
+           f. Sum of Numbers from 1 to ( n ):
 	
-•	The sum of the first ( n ) natural numbers is mathematically calculated as: [ \text{Sum} = 1 + 2 + 3 + \dots + n = \frac{n \cdot (n + 1)}{2} ]
+                • The sum of the first ( n ) natural numbers is mathematically calculated as: [ \text{Sum} = 1 + 2 + 3 + \dots + n = \frac{n \cdot (n + 1)}{2} ]
 
-•	However, in the program, the sum is computed iteratively using a loop for practice with programming constructs.
+                • However, in the program, the sum is computed iteratively using a loop for practice with programming constructs.
 
 2.	Steps:
 
