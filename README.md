@@ -40,8 +40,11 @@ f.	Sum of Numbers from 1 to ( n ):
 
     • Executed the compiled binary (./a.out) and provided various inputs for ( n ) to validate the output.
 
+![Screenshot 2025-01-07 235426](https://github.com/user-attachments/assets/87ba8b60-d10c-4ac6-8399-fbf93f03cc53)
 
-![image](https://github.com/user-attachments/assets/a33d5988-fcd1-488b-874a-73ef503ec5a3)
+
+![Screenshot 2025-01-07 235115](https://github.com/user-attachments/assets/e1224d92-38e7-4285-b3b5-bf6932b5bb83)
+
 
 3.	Cross-Compiling for RISC-V Architecture: I cross-compiled the same C program for the RISC-V architecture 
   
