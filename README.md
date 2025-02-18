@@ -8,7 +8,7 @@ College: Sahyadri College of Engineering and Management, Adyar, Mangaluru.
 -
 Email ID: vinayakgouda.ec22@sahyadri.edu.in
 -
-LinkedIn: [Vinayakgouda S A]([(https://www.linkedin.com/in/vinayakgouda-s-ayyangoudar-0681132b8)]
+LinkedIn: [Vinayakgouda S A](https://www.linkedin.com/in/vinayakgouda-s-ayyangoudar-0681132b8)
 -
 <details>
 <summary>TASK1:Development of C Based LAB</summary>
