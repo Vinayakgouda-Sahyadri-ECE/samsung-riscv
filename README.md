@@ -2,13 +2,13 @@
 This is a RISC-V Internship using VSDSquadron Mini based  on RISC-V architecture and uses open-source tools to teach students about VLSI SoC design and RISC-V. The instructor and guide for this internship program is Mr. Kunal Ghosh, Co-Founder of VSD.
 
 # ABOUT ME🚀
-Name: Lalu Prasad B 
+Name: Vinayakgouda S Ayyangoudar 
 -
 College: Sahyadri College of Engineering and Management, Adyar, Mangaluru.
 -
-Email ID: lalu.ec22@sahyadri.edu.in
+Email ID: vinayakgouda.ec22@sahyadri.edu.in
 -
-LinkedIn: [Lalu Prasad B](https://www.linkedin.com/in/lalu-prasad-81411932b)
+LinkedIn: [Vinayakgouda S A]([(https://www.linkedin.com/in/vinayakgouda-s-ayyangoudar-0681132b8)]
 -
 <details>
 <summary>TASK1:Development of C Based LAB</summary>
